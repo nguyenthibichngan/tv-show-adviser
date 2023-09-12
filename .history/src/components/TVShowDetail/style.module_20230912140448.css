@@ -1,0 +1,16 @@
+.title {
+  font-weight: 400;
+  font-size: 35px;
+}
+
+.rating {
+  overflow-y: auto;
+}
+
+.overview {
+  margin-top: 10px;
+  font-weight: 400;
+  font-size: 20px;
+  height: 120px;
+  overflow-y: hidden;
+}

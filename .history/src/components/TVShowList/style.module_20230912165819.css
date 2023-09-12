@@ -1,0 +1,17 @@
+.title {
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.list:hover {
+}
+
+.list {
+  display: flex;
+  width: 100vw;
+  overflow-x: hidden;
+}
+
+.tv_show_item {
+  margin-right: 20px;
+}
